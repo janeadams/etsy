@@ -4,6 +4,9 @@ Visualizations:
 - [zeetzeet shop favorites](https://htmlpreview.github.io/?https://github.com/janeadams/etsy/blob/main/viz/Views_vs_Favorites_for_Store:_%22zeetzeet%22.html)
 - [Keywords: Alexander Henry, fabric](https://htmlpreview.github.io/?https://github.com/janeadams/etsy/blob/main/viz/Views_vs_Favorites_for_keywords:_Alexander_Henry%2C_fabric.html)
 - [Tags: Alexander Henry, fabric](https://htmlpreview.github.io/?https://github.com/janeadams/etsy/blob/main/viz/Views_vs_Favorites_for_tags:_Alexander_Henry%2C_fabric.html)
+- [Fabric.com: Alexander Henry availability](https://htmlpreview.github.io/?https://github.com/janeadams/etsy/blob/main/viz/fabricdotcom_Alexander-Henry_available.html)
+- [Fabric.com: Michael Miller availability](https://htmlpreview.github.io/?https://github.com/janeadams/etsy/blob/main/viz/fabricdotcom_Michael-Miller_available.html)
+- [Fabric.com: Kaffe Fassett availability](https://htmlpreview.github.io/?https://github.com/janeadams/etsy/blob/main/viz/fabricdotcom_Kaffe-Fassett_available.html)
 
 Spreadsheets:
 - [Fabric.com Scrape (Gsheets)](https://docs.google.com/spreadsheets/d/11e8MmohdByQ5HwNNvVuCXRdvE6pjQFFrsx4NYieVZ34/edit?usp=sharing)
